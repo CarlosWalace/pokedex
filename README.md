@@ -14,7 +14,7 @@ npm i @mui/icons-material @mui/icons-material
 .https://pokeapi.co
 
 
-#Como rodar o projeto
+#Como rodar o projeto:
 
 npm start ou yarn start 
 
