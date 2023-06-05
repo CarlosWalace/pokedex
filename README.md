@@ -1,20 +1,27 @@
-# Dependencias: 
+# Dependências
 
-.axios
-npm i axios
+- Node.js (Certifique-se de tê-lo instalado)
 
-.Material Icons
-npm i @mui/icons-material @mui/material @emotion/styled @emotion/react
+## Instalação das dependências
 
-npm i @mui/icons-material @mui/icons-material
+Execute os seguintes comandos para instalar as dependências necessárias:
 
+### Axios
 
-#API utilizada
+npm install axios
 
-.https://pokeapi.co
+### Material Icons
 
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 
-#Como rodar o projeto:
+npm install @mui/icons-material
 
-npm start ou yarn start 
+API utilizada
+API: https://pokeapi.co
 
+Certifique-se de ter acesso à Internet para se conectar à API.
+
+Como rodar o projeto
+Para iniciar o projeto, utilize o seguinte comando:
+
+npm start
